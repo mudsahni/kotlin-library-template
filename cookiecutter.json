@@ -1,7 +1,7 @@
 {
   "library_name": "demo",
   "group_domain_type": "com",
-  "group_domain": "pavedroad"
+  "group_domain": "pavedroad",
   "author_name": "ms",
   "project_description": "This is a spring boot rest api template."
 }
